@@ -1,2 +1,2 @@
 # school-basic-java
-a console app for library management
+assignment: create a console app for library management
