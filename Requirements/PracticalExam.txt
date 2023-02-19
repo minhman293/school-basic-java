@@ -3,7 +3,6 @@ Duration : 85 minutes
 Develop Library management OOP application with following components and requirements
 
 1. Create MVC console application in NetBean:
-
 a. Define class Book with following attributes and methods:  (2 marks)
 + BookID, Book Title, Author, Year published  
 + Constructors, get/set(), toString() 
